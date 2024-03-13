@@ -1,9 +1,9 @@
-Project Title: Bank Personal Loan Campaign Analysis
+# Project Title: Bank Personal Loan Campaign Analysis
 
 Description:
 This project involves analyzing the data from a previous personal loan campaign conducted by HBFC bank to understand the profile of potential loan customers. The bank aims to increase its customer base of asset/loan customers by targeting potential clients more effectively. The dataset provided includes demographic information, customer relationship with the bank, and response to the last personal loan campaign for 5000 customers.
 
-The objectives of the analysis are as follows:
+# The objectives of the analysis are as follows:
 
 Determine the percentage of customers who availed personal loans compared to those who did not.
 Calculate descriptive statistics (min, max, median, average) for numeric variables.
@@ -17,7 +17,7 @@ Analyze the pivot tables to identify important categorical variables for further
 Provide recommendations to optimize the cost of future marketing campaigns based on the analysis.
 This analysis aims to assist HBFC bank in targeting potential customers more effectively for their personal loan offers, ultimately optimizing their marketing campaign strategy.
 
-OUTCOMES:
+# OUTCOMES:
 
 ![1](https://github.com/Jaswin-J/HBFC-Personal-loan-data-analysis-/assets/113494833/330a64ca-29e2-4c58-b810-ad2d76fee3b2)
 
